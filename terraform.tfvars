@@ -1,0 +1,6 @@
+aws_region = "eu-central-1"
+s3_bucket_name = "terraform-homework-bucket"
+ec2_name = "terraform-homework-ec2"
+environment = "dev"
+ami_id = "ami-0c55b159cbfafe1f0"
+instance_type = "t3micro"
